@@ -1,4 +1,4 @@
-<h1 align="center">This is Ash.</h1>
+<h1 align="center">This is Ash</h1>
 <h3 align="center">CE Student @ KNTU University of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkanfareghi&label=Profile%20views&color=0e75b6&style=flat" alt="ashkanfareghi" /> </p>
